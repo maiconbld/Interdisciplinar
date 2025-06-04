@@ -80,10 +80,3 @@ Desvio Padrão: 1.12
 IC 95%: [2.89, 3.35]
 ```
 
-## 📄 Licença
-
-Este projeto é livre para fins educacionais ou acadêmicos. Para uso comercial, favor entrar em contato.
-
----
-
-Se quiser, posso gerar esse arquivo como um `.md` para você baixar diretamente. Deseja isso?
